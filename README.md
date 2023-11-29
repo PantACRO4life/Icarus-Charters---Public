@@ -28,3 +28,7 @@
 - **OPEN NOTE DIALOG FOR ICONS OR MARKERS**
 
 	&#x21B3; ```DOUBLE LEFT CLICK ```
+
+- **New Line In notes**
+
+	&#x21B3; ```SHIFT + ENTER```

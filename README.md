@@ -1,35 +1,48 @@
 # Icarus-Charters
-```All your settings are saved in the application folder under "config/UserSettings.xml"```
 
-- **ROTATE CAVERN ICON**
-  
+### Requirement
+- [NET 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+
+### Instructions
+- Download the [latest release](https://github.com/PantACRO4life/Icarus-Charters-Release/releases).
+- Extract the folder and it's file where you want to store the app.
+- Execute "Icarus Charters.exe"
+- Wait for the loading (bar at the bottom).
+- Enjoy
+
+### Settings
+- All your settings, markers and everything are saved in the application folder under ```"config/UserSettings.xml"```
+
+### Controls
+- **Rotate Cave Icons**
+
 	&#x21B3; ```CTRL + MOUSE WHEEL```
 
-- **PLACE CUSTOM MARKER**
+- **Place Custom Markers**
 
-  &#x21B3; ```RIGHT CLICK```
+  	&#x21B3; ```RIGHT CLICK```
 
-- **DELETE CUSTOM MARKER**
+- **Delete Custom Markers**
 
 	&#x21B3; ```MIDDLE MOUSE CLICK```
 
-- **CHANGING DEEP MINING ICONS**
+- **Changing Deep Mining Icons**
 
 	&#x21B3; ```CTRL + MOUSE WHEEL```
 
-- **MOVE ICONS OR MARKERS**
+- **Move Icons/Markers**
 
 	&#x21B3; ```(HOLD) CTRL + LEFT CLICK --> DRAG```
 
-- **ZOOM IN/OUT**
+- **Zoom IN/OUT**
 
 	&#x21B3; ```MOUSE WHEEL```
 
-- **PAN**
+- **Pan**
 
 	&#x21B3; ```(HOLD) LEFT CLICK --> DRAG```
 
-- **OPEN NOTE DIALOG FOR ICONS OR MARKERS**
+- **Open Note Dialog For Icons/Markers**
 
 	&#x21B3; ```DOUBLE LEFT CLICK ```
 

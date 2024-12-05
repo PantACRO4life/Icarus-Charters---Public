@@ -1,9 +1,10 @@
 # Icarus-Charters
 
 ### Requirement
-- [NET 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+- [NET 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0). In your case, probably [```"SDK 6.0.428 Installer x64 for Windows"```](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.428-windows-x64-installer).
 
 ### Instructions
+- Download NET 6 Installer from requirement and install it.
 - Download the [latest release](https://github.com/PantACRO4life/Icarus-Charters-Release/releases).
 - Extract the folder and it's file where you want to store the app.
 - Execute "Icarus Charters.exe"

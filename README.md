@@ -1,7 +1,7 @@
 # Icarus-Charters
 
 ### Requirement
-- [NET 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0). In your case, probably [```"SDK 6.0.428 Installer x64 for Windows"```](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.428-windows-x64-installer).
+- [NET 6](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.36-windows-x64-installer)
 
 ### Instructions
 - Download NET 6 Installer from requirement and install it.
